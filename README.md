@@ -1,5 +1,5 @@
 # liri-bot
-# LIRI is like iPhone's SIRI grandpa, but LIRI is a Language Interpretation and Recognition Interface. LIRI is be a command line node app that takes in on of four parameters and returns the relative data.
+## LIRI is like iPhone's SIRI grandpa, but LIRI is a Language Interpretation and Recognition Interface. LIRI is be a command line node app that takes in on of four parameters and returns the relative data.
 
 
 ## Clone repo
@@ -13,12 +13,12 @@
 
 ### Run in terminal example: node liri.js spotify-this-song Santeria 
 
-# Technologies Utilized
-# 1. NodeJS
-# 2. JavaScript
-# 3. Node Spotify API
-# 4. OMDB API
-# 5. Bands in Town API
-# 6. NPM axios
-# 7. NPM dotenv
-# 8. NPM moment
+## Technologies Utilized
+## 1. NodeJS
+## 2. JavaScript
+## 3. Node Spotify API
+## 4. OMDB API
+## 5. Bands in Town API
+## 6. NPM axios
+## 7. NPM dotenv
+## 8. NPM moment
