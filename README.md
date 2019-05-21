@@ -11,8 +11,8 @@ LIRI is like iPhone's SIRI grandpa, but LIRI is a Language Interpretation and Re
 ```commands
  1.) spotify-this-song
  2.) movie-this
- 3.)concert-this
- 4.)do-what-it-says
+ 3.) concert-this
+ 4.) do-what-it-says
 
 ```
 
@@ -27,7 +27,7 @@ LIRI is like iPhone's SIRI grandpa, but LIRI is a Language Interpretation and Re
 ```
 ## Technologies Utilized
 
-```
+```technologies
  1. NodeJS
  2. JavaScript
  3. Node Spotify API
