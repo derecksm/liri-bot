@@ -6,7 +6,7 @@ LIRI is like iPhone's SIRI grandpa, but LIRI is a Language Interpretation and Re
 
  * Clone repo
  * Run npm install
- *At command prompt run node liri.js <pass in an instructions below>
+ * At command prompt run node liri.js <pass in an instructions below>
 
 ```commands
  1.) spotify-this-song
