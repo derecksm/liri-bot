@@ -19,7 +19,7 @@ LIRI is like iPhone's SIRI grandpa, but LIRI is a Language Interpretation and Re
 ## Usage
 
 ```usage
- ex: node liri.js spotify-this-song Santeria # returns 
+ ex: 'node liri.js spotify-this-song Santeria' will return the following: 
        'Artist Name: Sublime
         Song's Name: Santeria
         Song's Link: https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f
